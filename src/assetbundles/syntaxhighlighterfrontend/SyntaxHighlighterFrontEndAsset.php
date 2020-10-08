@@ -29,7 +29,7 @@ class SyntaxHighlighterFrontEndAsset extends AssetBundle
      */
     public function init()
     {
-        $this->sourcePath = "@hashtagerrors/syntaxhighlighter/assetbundles/syntaxhighlighter/dist";
+        $this->sourcePath = "@hashtagerrors/syntaxhighlighter/assetbundles/syntaxhighlighterfrontend/dist";
         
         $this->js = [
             'prism.js',
