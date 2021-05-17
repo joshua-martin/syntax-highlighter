@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2019 Hashtag Errors
  */
 
-namespace hashtagerrors\syntaxhighlighter\assetbundles\SyntaxHighlighterFrontEnd;
+namespace hashtagerrors\syntaxhighlighter\assetbundles\syntaxhighlighterfrontend;
 
 use Craft;
 use craft\web\AssetBundle;
